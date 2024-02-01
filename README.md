@@ -1,1 +1,1 @@
-Transformer uses Keras to make Predictions of Visibilities.
+Transformer uses Keras to predict next token visibilities in a time-series like manner.
